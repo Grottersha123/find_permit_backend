@@ -2,7 +2,7 @@
 find permit backend
 
 
-how build docker file in build_script_prod.sh
+how to build docker file in build_script_prod.sh
 
 App client for find permit search. 
 
