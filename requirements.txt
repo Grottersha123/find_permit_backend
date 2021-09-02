@@ -1,0 +1,7 @@
+numpy
+scipy
+flask
+elasticsearch
+plotly
+icecream
+flask-cors
